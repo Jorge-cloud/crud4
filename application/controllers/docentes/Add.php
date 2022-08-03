@@ -13,6 +13,7 @@ class Add extends CI_Controller {
 	{
 					$this->load->view('header');
 					$this->load->view('docentes/add');
+					
 	}
 
 
