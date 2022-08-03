@@ -1,4 +1,6 @@
 <?php
+
+//hola
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Add extends CI_Controller {
@@ -13,7 +15,7 @@ class Add extends CI_Controller {
 	{
 					$this->load->view('header');
 					$this->load->view('docentes/add');
-					
+
 	}
 
 
