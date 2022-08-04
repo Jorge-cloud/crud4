@@ -22,17 +22,16 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="/crud4/inscripcion"><h3>Incripciones</h3></a>
+            <a class="nav-link" href="<?php echo base_url(); ?>inscripcion"><h3>Incripciones</h3></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/crud4/participantes"><h3>Estudiantes</h3></a>
+            <a class="nav-link" href="<?php echo base_url(); ?>participantes"><h3>Estudiantes</h3></a>
           </li>
-
 
           
 
           <li class="nav-item">
-            <a class="nav-link" href="/crud4/docentes"><h3>Docentes</h3></a>
+            <a class="nav-link" href="<?php echo base_url(); ?>docentes"><h3>Docentes</h3></a>
           </li>
 
           
