@@ -18,14 +18,14 @@
         <ul class="navbar-nav mr-auto">
 
           <li class="nav-item ">
-            <a class="nav-link" href="<?php echo base_url(); ?>cursos"><h3>Cursos</h3> </a>
+            <a class="nav-link" href="<?= base_url(); ?>cursos"><h3>Cursos</h3> </a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo base_url(); ?>inscripcion"><h3>Incripciones</h3></a>
+            <a class="nav-link" href="<?=base_url(); ?>inscripcion"><h3>Incripciones</h3></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo base_url(); ?>participantes"><h3>Estudiantes</h3></a>
+            <a class="nav-link" href="<?=base_url(); ?>participantes"><h3>Estudiantes</h3></a>
           </li>
 
           
